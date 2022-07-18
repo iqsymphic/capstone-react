@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.2.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
